@@ -23,7 +23,7 @@ prereqs('CSE','100', ['CSE', '30', 'CSE' ,'21'] ).
 % receive from front-end
 course_taken('CSE', '11').
 course_taken('CSE', '12').
-course_goal('CSE', '30').
+course_goal('CSE', '100').
 
 %-----------------------------------------------------
 
